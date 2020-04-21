@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="270571c1-f119-4edc-a272-57681a46f5d2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="usePluginRegistry" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZoYBzbNtuiFZPArFH41nevVBVN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunManager" selected="TestNG./home/tony/Workspace/Selenium-dockerautomation/book-flight-module.xml">
+    <configuration name="Selenium-dockerautomation []" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="BookFlightTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Seleniumdockerautomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="newtours.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="newtours.test" />
+      <option name="MAIN_CLASS_NAME" value="newtours.test.BookFlightTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Seleniumdockerautomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="searchmodule.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="searchmodule.test" />
+      <option name="MAIN_CLASS_NAME" value="searchmodule.test.SearchTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/tony/Workspace/Selenium-dockerautomation/book-flight-module.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Seleniumdockerautomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/book-flight-module.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/tony/Workspace/Selenium-dockerautomation/searchmodule.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Seleniumdockerautomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/searchmodule.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/home/tony/Workspace/Selenium-dockerautomation/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Seleniumdockerautomation" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.Selenium-dockerautomation []" />
+      <item itemvalue="TestNG.BookFlightTest" />
+      <item itemvalue="TestNG./home/tony/Workspace/Selenium-dockerautomation/testng.xml" />
+      <item itemvalue="TestNG.SearchTest" />
+      <item itemvalue="TestNG./home/tony/Workspace/Selenium-dockerautomation/searchmodule.xml" />
+      <item itemvalue="TestNG./home/tony/Workspace/Selenium-dockerautomation/book-flight-module.xml" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./home/tony/Workspace/Selenium-dockerautomation/book-flight-module.xml" />
+        <item itemvalue="TestNG./home/tony/Workspace/Selenium-dockerautomation/searchmodule.xml" />
+        <item itemvalue="TestNG.SearchTest" />
+        <item itemvalue="TestNG./home/tony/Workspace/Selenium-dockerautomation/testng.xml" />
+        <item itemvalue="TestNG.BookFlightTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="270571c1-f119-4edc-a272-57681a46f5d2" name="Default Changelist" comment="" />
+      <created>1585506782318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585506782318</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="388" y="51" width="1200" height="1002" key="#Project_Structure.inPresentationMode" timestamp="1586397886034">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="388" y="51" width="1200" height="1002" key="#Project_Structure.inPresentationMode/67.27.1853.1053@67.27.1853.1053" timestamp="1586397886034" />
+    <state x="349" y="27" width="1200" height="1002" key="#Updates.inPresentationMode" timestamp="1587271608014">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="349" y="27" width="1200" height="1002" key="#Updates.inPresentationMode/67.27.1853.1053@67.27.1853.1053" timestamp="1587271608014" />
+    <state x="451" y="140" width="1168" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog.inPresentationMode" timestamp="1586401987866">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="140" width="1168" height="824" key="#com.intellij.execution.impl.EditConfigurationsDialog.inPresentationMode/67.27.1853.1053@67.27.1853.1053" timestamp="1586401987866" />
+    <state x="728" y="407" width="453" height="236" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.inPresentationMode" timestamp="1587317663156">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="728" y="407" width="453" height="236" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog.inPresentationMode/67.27.1853.1053@67.27.1853.1053" timestamp="1587317663156" />
+    <state x="338" y="27" width="1224" height="1004" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.inPresentationMode" timestamp="1587317578745">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="338" y="27" width="1224" height="1004" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor.inPresentationMode/67.27.1853.1053@67.27.1853.1053" timestamp="1587317578745" />
+    <state x="771" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1586554946626">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="633" y="177" width="624" height="704" key="FileChooserDialogImpl.inPresentationMode" timestamp="1587317563166">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="633" y="177" width="624" height="704" key="FileChooserDialogImpl.inPresentationMode/67.27.1853.1053@67.27.1853.1053" timestamp="1587317563166" />
+    <state x="771" y="310" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1586554946626" />
+    <state x="180" y="69" width="1540" height="912" key="FileDocumentManager.FileCacheConflict.inPresentationMode" timestamp="1585596201049">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="180" y="69" width="1540" height="912" key="FileDocumentManager.FileCacheConflict.inPresentationMode/67.27.1853.1053@67.27.1853.1053" timestamp="1585596201049" />
+    <state width="1807" height="285" key="GridCell.Tab.0.bottom" timestamp="1586554977197">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1920" height="321" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1587314079220">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1920" height="321" key="GridCell.Tab.0.bottom.inPresentationMode/67.27.1853.1053@67.27.1853.1053" timestamp="1587314079220" />
+    <state width="1807" height="285" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1586554977197" />
+    <state width="1807" height="285" key="GridCell.Tab.0.center" timestamp="1586554977195">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1920" height="321" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1587314079218">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1920" height="321" key="GridCell.Tab.0.center.inPresentationMode/67.27.1853.1053@67.27.1853.1053" timestamp="1587314079218" />
+    <state width="1807" height="285" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1586554977195" />
+    <state width="1807" height="285" key="GridCell.Tab.0.left" timestamp="1586554977194">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1920" height="321" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1587314079217">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1920" height="321" key="GridCell.Tab.0.left.inPresentationMode/67.27.1853.1053@67.27.1853.1053" timestamp="1587314079217" />
+    <state width="1807" height="285" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1586554977194" />
+    <state width="1807" height="285" key="GridCell.Tab.0.right" timestamp="1586554977196">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1920" height="321" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1587314079219">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1920" height="321" key="GridCell.Tab.0.right.inPresentationMode/67.27.1853.1053@67.27.1853.1053" timestamp="1587314079219" />
+    <state width="1807" height="285" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1586554977196" />
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor" timestamp="1585531956365">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="194" y="27" key="SettingsEditor.inPresentationMode" timestamp="1587272209322">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="194" y="27" key="SettingsEditor.inPresentationMode/67.27.1853.1053@67.27.1853.1053" timestamp="1587272209322" />
+    <state x="476" y="130" width="1024" height="845" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1585531956365" />
+    <state x="647" y="307" width="683" height="491" key="chooseDestDirectoryDialog.inPresentationMode" timestamp="1586490099705">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="647" y="307" width="683" height="491" key="chooseDestDirectoryDialog.inPresentationMode/67.27.1853.1053@67.27.1853.1053" timestamp="1586490099705" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1587347976208">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1587347976208" />
+    <state x="302" y="243" width="1372" height="618" key="new project wizard" timestamp="1586555307710">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="67" y="180" width="1843" height="690" key="new project wizard.inPresentationMode" timestamp="1586554679592">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="67" y="180" width="1843" height="690" key="new project wizard.inPresentationMode/67.27.1853.1053@67.27.1853.1053" timestamp="1586554679592" />
+    <state x="302" y="243" width="1372" height="618" key="new project wizard/67.27.1853.1053@67.27.1853.1053" timestamp="1586555307710" />
+  </component>
+</project>
